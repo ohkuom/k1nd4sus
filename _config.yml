@@ -20,9 +20,6 @@
 
 title: K!nd4SUS
 
-baseurl: "/K1nd4SUS" 
-url: "https://ohkuom.github.io"
-
 # Build settings
 theme: minima
 plugins:
