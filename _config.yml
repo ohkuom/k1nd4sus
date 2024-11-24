@@ -40,7 +40,7 @@ author:
 
 header_pages:
   - about.markdown
-  - news.markdown
+  - blog.markdown
   - ctf.markdown
   - statuto.markdown
   - faq.markdown
