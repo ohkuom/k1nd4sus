@@ -21,7 +21,7 @@
 title: K!nd4SUS
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 minima:
