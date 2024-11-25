@@ -1,5 +1,3 @@
-\---
-
+---
 author: Jamie Delano
-
-\---
+---
