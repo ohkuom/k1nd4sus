@@ -1,0 +1,18 @@
+kuom:
+  name: '[kuom]'
+  bio: 'Offensive Security Specialist'
+  avatar: ../../static/avatar.png
+  socials:
+    github: 'ohkuom'
+    x: ''
+  site: 'https:/kuom.com'
+
+
+k!nd4sus:
+  name: 'K!nd4SUS Staff'
+  bio: 'Aggiornamenti sul gruppo e sulle prossime CTF'
+  avatar: ''
+  socials:
+    github: ''
+    x: ''
+  site: ''

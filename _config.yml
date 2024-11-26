@@ -31,7 +31,6 @@ minima:
     - { platform: x, user_url: "https://x.com/k1nd4sus_ctf" }
     - { platform: telegram, user_url: "https://t.me/+Rej8qbbkONMxZTdk" }
 
-
 description: Università degli Studi di Milano
 
 author:
@@ -44,6 +43,19 @@ header_pages:
   - ctf.markdown
   - statuto.markdown
   - faq.markdown
+
+collections:
+  authors:
+    output: true
+    permalink: author/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
 
 
 # Exclude from processing.

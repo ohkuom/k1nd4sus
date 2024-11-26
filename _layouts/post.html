@@ -30,9 +30,11 @@ layout: base
       {%- endif -%}
       {%- if page.author -%}
         • {% for author in page.author %}
+          {% assign author_data = site.data.authors[author] %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
+            <a href="{{ '/author/' | append: author | downcase }}" class="p-author h-card" itemprop="name">{{ author_data.name }}</a>
+          </span>
+          {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
   </header>

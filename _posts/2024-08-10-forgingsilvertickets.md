@@ -1,14 +1,9 @@
 ---
 
 layout: post
-
 title:  "Forging Silver Tickets"
-
 date:   2024-08-10 18:45:58 +0100
-
-categories: security
-
-author: antr4x
+author: kuom
 
 ---
 

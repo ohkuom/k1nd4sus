@@ -3,7 +3,7 @@
 layout: post
 title:  "Binary Ninja vs IDA Pro"
 date:   2024-09-09 22:45:58 +0100
-author: Franceso Tommasetti
+author: kuom
 
 ---
 

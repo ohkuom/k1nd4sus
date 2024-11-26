@@ -2,6 +2,6 @@
 
 layout: post
 title:  Titolo
-author: Autore
+author: k!nd4sus
 
 ---
