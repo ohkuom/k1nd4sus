@@ -18,9 +18,9 @@ ma anche nella sua comprensione.
 ## Organigramma
 All’interno del gruppo sono individuati i seguenti ruoli:<br>
 <ul>
-<li> un Presidente (Mattia Perfumo), il quale coordina e presiede tutte le attività del gruppo e nomina il Tesoriere. La carica presidenziale ha durata annuale. </li>
-<li> Vicepresidenti (Samuele Manclossi, Mirco Picca, Tiziano Radicchi, Matteo Zoia), che si occupano della gestione concreta e giornaliera delle attività;</li>
-<li> un Tesoriere (Samuele Manclossi), ossia un Vicepresidente che si occupa anche della gestione delle risorse finanziare e materiali del Gruppo. Il Tesoriere ha il diritto di veto sulle decisioni prese dall’Assemblea per quanto riguarda le
+<li> un Presidente, il quale coordina e presiede tutte le attività del gruppo e nomina il Tesoriere. La carica presidenziale ha durata annuale. </li>
+<li> Vicepresidenti, che si occupano della gestione concreta e giornaliera delle attività;</li>
+<li> un Tesoriere, ossia un Vicepresidente che si occupa anche della gestione delle risorse finanziare e materiali del Gruppo. Il Tesoriere ha il diritto di veto sulle decisioni prese dall’Assemblea per quanto riguarda le
 finanze del Gruppo, nei soli casi in cui l’entrata in vigore di quelle decisioni consisterebbe in una gestione insostenibile o non corretta delle risorse a disposizione;</li>
 <li> Amministratori, nominati dal Presidente o dai Vicepresidenti, che si occupano di gestire tutti i canali di comunicazione del Gruppo;</li>
 <li> una Assemblea, ossia il consiglio direttivo formato dal Presidente e da tutti i Vicepresidenti, Tesoriere incluso. </li> 

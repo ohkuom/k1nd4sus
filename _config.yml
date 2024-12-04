@@ -41,6 +41,7 @@ header_pages:
   - about.markdown
   - blog.markdown
   - ctf.markdown
+  - contatti.markdown
   - statuto.markdown
   - faq.markdown
 
@@ -56,6 +57,13 @@ defaults:
       type: authors
     values:
       layout: author
+
+markdown: kramdown
+kramdown:
+  input: GFM        # GitHub Flavored Markdown, supporta anche tabelle, link, etc.
+  parse_block_html: true  # Permette di usare HTML nei blocchi
+  parse_span_html: true   # Permette HTML anche nelle parti inline
+
 
 
 # Exclude from processing.
