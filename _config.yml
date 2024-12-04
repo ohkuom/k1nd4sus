@@ -43,6 +43,7 @@ header_pages:
   - ctf.markdown
   - contatti.markdown
   - statuto.markdown
+  - regolamento.markdown
   - faq.markdown
 
 collections:
