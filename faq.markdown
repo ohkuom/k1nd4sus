@@ -18,7 +18,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
 
 <ul class="jekyllcodex_accordion">
     <li>
-        <input id="accordion1" type="checkbox" />
+        <input id="accordion1" type="checkbox" checked/>
         <label for="accordion1"><h2>Come posso entrare in K!nd4SUS?</h2></label>
         <div>
             Per entrare in K!nd4SUS unisciti ai gruppi ufficiali.<br>
