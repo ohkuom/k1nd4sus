@@ -27,15 +27,27 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         </div>
     </li>
     <li>
-        <input id="accordion2" type="checkbox" />
-        <label for="accordion2"><h2>Come posso pubblicare sul blog?</h2></label>
-        <div>
-            Se hai degli articoli che vorresti pubblicare sul <a href="https://k1nd4sus.it/blog">blog</a>, contatta <a href="https://t.me/ohkuom">[kuom]</a>.
+        <input id="accordion2" type="checkbox"/>
+        <label for="accordion2"><h2>Cos'è una CTF?</h2></label>
+        <div>Le CTF (Capture the Flag) sono un tipo speciale di competizioni di sicurezza informatica. Ci sono tre tipi comuni di CTF: Jeopardy, Attack-Defence e miste.<br>Le CTF in stile Jeopardy presentano una serie di domande (challenge) in diverse categorie. Ad esempio, Web, Forensics, Crypto, Binary o altro. <br>Le squadre possono guadagnare punti per ogni challenge risolta, e il punteggio varia a seconda della sua difficoltà. Alla fine del tempo di gioco, la somma dei punti determina il vincitore della CTF. Un esempio famoso di questo tipo di CTF sono le qualifications per la Defcon CTF.<br>Le CTF in stile Attack-Defence sono un altro tipo di competizione. Ogni squadra ha una propria rete (o anche solo un host) con servizi vulnerabili. Ogni squadra ha tempo per correggere i propri servizi e sviluppare exploit. Successivamente, gli organizzatori collegano i partecipanti alla competizione e inizia il gioco! Si devono proteggere i propri servizi per guadagnare punti di difesa e nel mentre attaccare gli avversari per guadagnare punti di attacco.<br>Storicamente, questo è stato il primo tipo di CTF, e la DEF CON CTF è considerata una sorta di Coppa del Mondo di tutte le altre competizioni.<br>Le CTF toccano spesso molti altri aspetti della sicurezza informatica: cryptography, steganography, binary analysis, reverse engineering, mobile security e altri.<br><br>Cortesia di <a href="https://ctftime.org/ctf-wtf">CTFTime</a>.
+        </div>
+    </li>
+    <li>
+        <input id="accordion3" type="checkbox"/>
+        <label for="accordion3"><h2>Cos'è CyberChallenge.IT e perché dovrei partecipare?</h2></label>
+        <div><a href="https://cyberchallenge.it/">CyberChallenge.IT</a>, programma di formazione per i giovani talenti tra i 16 e i 24 anni, è la principale iniziativa italiana per identificare, attrarre, reclutare e collocare la prossima generazione di professionisti della sicurezza informatica. <br> Per partecipare non servono esperti di programmazione ma grande passione, impegno e curiosità nelle discipline scientifico-tecnologiche (scienza, tecnologia, ingegneria e matematica). Servono anche capacità logiche, di problem solving, di comunicazione e, soprattutto, tanta voglia di imparare.<br> Dal 2020 CyberChallenge.IT è stato riconosciuto dal Ministero dell'Istruzione come progetto per la valorizzazione delle eccellenze; attraverso questi progetti, il Ministero individua le iniziative e le modalità di riconoscimento dei livelli di eccellenza conseguiti dagli studenti della scuola secondaria di secondo grado. <br><br>Cortesia di <a href="https://cyberchallenge.it/rules">CyberChallenge.IT</a>.
+
+</div>
+    </li>
+    <li>
+        <input id="accordion4" type="checkbox"/>
+        <label for="accordion4"><h2>Cos'è CyberCup e come posso partecipare?</h2></label>
+        <div><a href="https://cybercup.it/">CyberCup</a> consiste in un torneo Capture The Flag, costituito da vari eventi selezionati tra le gare internazionali a disposizione. Al torneo potranno partecipare tutte le squadre (senza limiti al numero di partecipanti) che si iscriveranno, incluse quelle di nuova costituzione. <br>La competizione sarà caratterizzata da un ranking delle squadre, il punteggio dipende dalle performance ad ogni gara selezionata. <br>Gli eventi di CyberCup verranno accuratamente scelti in accordo alla qualità e al livello di difficoltà da un comitato tecnico. Avranno maggiore priorità le competizioni organizzate da università e da squadre CTF italiane. Gli eventi avranno una difficoltà bilanciata in modo da accogliere sia squadre con poca esperienza che quelle più preparate. <br><br>Se vuoi partecipare ti basta fare parte del team e presentarti nel nostro server Discord nei giorni di gara!<br><br>Cortesia di <a href="https://cybercup.it/">CyberCup</a>.
         </div>
     </li>
 <li>
-    <input id="accordion3" type="checkbox" />
-    <label for="accordion3"><h2>Che risorse consigliate?</h2></label>
+    <input id="accordion5" type="checkbox" />
+    <label for="accordion5"><h2>Che risorse consigliate?</h2></label>
     <div>
         <p><strong>Challenge:</strong></p>
         <ul>
@@ -48,7 +60,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
             <li><a href="https://www.hackthebox.com/">HackTheBox</a> - VM vulnerabili</li>
         </ul>
 
-        <p><strong>Offensive Security:</strong></p>
+<p><strong>Offensive Security:</strong></p>
         <ul>
             <li><a href="https://www.youtube.com/@HackerSploit">HackerSploit</a> - red team e penetration testing</li>
             <li><a href="https://www.youtube.com/@_JohnHammond">John Hammond</a> - red team e Penetration testing</li>
@@ -65,7 +77,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
             <li><a href="https://www.youtube.com/@DavidProbinsky">David Probinsky</a> - penetration testing fisico</li>
         </ul>
 
-        <p><strong>Reverse engineering:</strong></p>
+<p><strong>Reverse engineering:</strong></p>
         <ul>
             <li><a href="https://www.youtube.com/@pwncollege">pwn.college</a></li>
             <li><a href="https://www.youtube.com/@OffByOneSecurity">Off By One Security</a></li>
@@ -81,7 +93,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
             <li><a href="https://www.youtube.com/@malwarexology">Andrew Chase</a> - Mac</li>
         </ul>
 
-        <p><strong>News:</strong></p>
+<p><strong>News:</strong></p>
         <ul>
             <li><a href="https://www.youtube.com/@rev3rsesecurity">rev3rse security</a></li>
             <li><a href="https://0dayfans.com/">0dayFans</a> - exploit research</li>
@@ -90,14 +102,14 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
             <li><a href="https://www.youtube.com/@hak5">Hak5</a></li>
         </ul>
 
-        <p><strong>Network:</strong></p>
+<p><strong>Network:</strong></p>
         <ul>
             <li><a href="https://www.youtube.com/@JeremysITLab">Jeremy's IT Lab</a></li>
             <li><a href="https://www.youtube.com/@davidbombal">David Bombal</a></li>
             <li><a href="https://www.youtube.com/@NetworkChuck">NetworkChuck</a></li>
         </ul>
 
-        <p><strong>Conferenze:</strong></p>
+<p><strong>Conferenze:</strong></p>
         <ul>
             <li><a href="https://www.nohat.it/">NoHat</a> - hacking, Bergamo</li>
             <li><a href="https://linuxdaymilano.org/">Linux Day Milano</a> - linux, Milano</li>
@@ -108,6 +120,27 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         </ul>
     </div>
 </li>
+    <li>
+        <input id="accordion6" type="checkbox" />
+        <label for="accordion6"><h2>Come posso pubblicare sul blog?</h2></label>
+        <div>
+            Se hai degli articoli che vorresti pubblicare sul <a href="https://k1nd4sus.it/blog">blog</a>, contatta <a href="https://t.me/ohkuom">[kuom]</a>.
+        </div>
+    </li>
+    <li>
+        <input id="accordion7" type="checkbox" />
+        <label for="accordion7"><h2>Esistono un regolamento o uno statuto?</h2></label>
+        <div>
+            Certamente, <a href="https://k1nd4sus.it/regolamento">regolamento</a> e <a href="https://k1nd4sus.it/statuto">statuto</a> si trovano nelle apposite pagine di questo sito.
+        </div>
+    </li>
+    <li>
+        <input id="accordion8" type="checkbox" />
+        <label for="accordion8"><h2>Come posso contattare l'Assemblea Direttiva o un suo membro?</h2></label>
+        <div>
+            La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
+        </div>
+    </li>
 
 </ul>
 

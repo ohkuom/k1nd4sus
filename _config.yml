@@ -40,10 +40,11 @@ author:
 header_pages:
   - about.markdown
   - blog.markdown
-  - ctf.markdown
+#  - ctf.markdown
   - contatti.markdown
   - statuto.markdown
   - regolamento.markdown
+  - organigramma.markdown
   - faq.markdown
 
 collections:

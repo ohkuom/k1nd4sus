@@ -4,21 +4,28 @@ title: Home
 permalink: /
 ---
 
-K!nd4SUS è il team di hacking dell'[Università degli Studi di Milano][unimi] composto da studenti e membri del [LaSER][laser].<br>
-Siamo pure amici del [CodeLab][codelab].
+## Chi siamo
 
-### 2021
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+Il K!nd4SUS Cybersecurity Team è il team di CTF player dell'[Università degli Studi di Milano](https://www.unimi.it/) (UniMI) e interessati alla cybersecurity e, più in generale, a tutto ciò che ha a vedere con l'informatica. <br>
+La nostra origine risale al 2021 quando un gruppetto di persone decise, a seguito del progetto [CyberChallenge.IT](https://cyberchallenge.it/), di proseguire con le attività nell'ambito. <br>
+Negli anni il team è cresciuto e si è trasformato diventando, nel 2024, un Gruppo Studentesco legato all'UniMI.<br>
+Ora le attività proposte dal gruppo riguardano vari ambiti, tra cui:
+- sostegno alla community nell'ambito delle CTF mediante la partecipazione a competizioni sia nazionali che internazionali;
+- diffusione della cultura informatica attraverso partecipazione a incontri, conferenze, workshop;
+- supporto al progetto CyberChallenge.IT mediante sessioni pomeridiane e serali di allenamento, con lo scopo di imparare e approfondire le tecniche di hacking etico;
+- organizzazione di eventi, seminari, conferenze in loco e online volti alla divulgazione della Sicurezza Informatica.
 
-### 2022
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+### 2021 (6 membri)
+I membri fondatori, alla conclusione del progetto CyberChallenge.IT, hanno deciso di proseguire con le attività nell'ambito della CyberSecurity, accomunati dalla passione per le CTF. <br>
 
-### 2023
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-### 2024
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+### 2022 (50+ membri)
+Nel corso del 2022 abbiamo partecipato a CTF sempre più importanti e con maggiore visibilità a livello internazionale, creando anche per un breve periodo i k!nd4r00t, una collaborazione con il team r00tstici. <br>
+Nel 2022 abbiamo conquistato il 14esimo posto alla X-MAS CTF! <br>
 
+### 2023 (100+ membri)
+Abbiamo iniziato la procedura di riconoscimento come Gruppo Studentesco dell'Università degli Studi di Milano, in modo da ufficializzare l'esistenza di una CTF community!<br>
+Tra i nostri risultati più significativi nel 2023 troviamo il sesto posto alla snakeCTF e il settimo alla niteCTF e alla Srdnlen. <br>
 
-[unimi]: https://www.unimi.it/
-[laser]: https://security.di.unimi.it/
-[codelab]: https://codelabunimi.notion.site/CODELAB-UNIMI-5afeac14b4c148fba51572d71993aad3
+### 2024 (200+ membri)
+Siamo diventati ufficialmente un Gruppo Studentesco riconosciuto da UniMI!<br>
+Il consiglio direttivo, per l'Anno Accademico 2024/2025, è il seguente: Mattia Perfumo (Presidente), Samuele Manclossi (Tesoriere e Vicepresidente), Mirco Picca, Tiziano Radicchi, Matteo Zoia (Vicepresidenti).<br>
