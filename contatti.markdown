@@ -18,8 +18,8 @@ Per contattarci e seguire le nostre attività puoi usare i seguenti link:
  - [Mirco Picca](https://t.me/Kribas): Vicepresidente
  - [Tiziano Radicchi](https://t.me/Tiz314): Vicepresidente
  - [Matteo Zoia](https://t.me/teozoia): Vicepresidente
- - [Rocco Amico](https://t.me/ohkuom): Amministratore
- - [Cristian Salvi](https://t.me/salv1ni): Amminsitratore
+ - [Rocco Amico](https://t.me/ohkuom): Amministratore con delega al sito
+ - [Cristian Salvi](https://t.me/salv1ni): Amministratore con delega al sito
 
 ## Iniziative
 - Il nostro profilo su [CTFtime](https://ctftime.org/team/150337)

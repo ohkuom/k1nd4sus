@@ -24,5 +24,5 @@ permalink: /organigramma
 - Tiziano Radicchi
 
 ## Amministratori
-- Delega al Sito: Rocco Amico
-- Delega al Sito: Cristian Salvi
+- Delega al sito: Rocco Amico
+- Delega al sito: Cristian Salvi
