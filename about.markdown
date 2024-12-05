@@ -15,6 +15,8 @@ Ora le attività proposte dal gruppo riguardano vari ambiti, tra cui:
 - supporto al progetto CyberChallenge.IT mediante sessioni pomeridiane e serali di allenamento, con lo scopo di imparare e approfondire le tecniche di hacking etico;
 - organizzazione di eventi, seminari, conferenze in loco e online volti alla divulgazione della Sicurezza Informatica.
 
+## Storia
+
 ### 2021 (6 membri)
 I membri fondatori, alla conclusione del progetto CyberChallenge.IT, hanno deciso di proseguire con le attività nell'ambito della CyberSecurity, accomunati dalla passione per le CTF. <br>
 
