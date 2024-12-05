@@ -3,6 +3,7 @@
 layout: post
 title:  "Escaping Docker env"
 date:   2024-11-11 22:45:58 +0100
+categories: [Malware]
 author: k!nd4sus
 
 ---

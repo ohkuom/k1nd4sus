@@ -124,21 +124,21 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         <input id="accordion6" type="checkbox" />
         <label for="accordion6"><h2>Come posso pubblicare sul blog?</h2></label>
         <div>
-            Se hai degli articoli che vorresti pubblicare sul <a href="https://k1nd4sus.it/blog">blog</a>, contatta <a href="https://t.me/ohkuom">[kuom]</a>.
+            Se hai degli articoli che vorresti pubblicare sul <a href="blog">blog</a>, contatta <a href="https://t.me/ohkuom">[kuom]</a>.
         </div>
     </li>
     <li>
         <input id="accordion7" type="checkbox" />
         <label for="accordion7"><h2>Esistono un regolamento o uno statuto?</h2></label>
         <div>
-            Certamente, <a href="https://k1nd4sus.it/regolamento">regolamento</a> e <a href="https://k1nd4sus.it/statuto">statuto</a> si trovano nelle apposite pagine di questo sito.
+            Certamente, <a href="regolamento">regolamento</a> e <a href="statuto">statuto</a> si trovano nelle apposite pagine di questo sito.
         </div>
     </li>
     <li>
         <input id="accordion8" type="checkbox" />
         <label for="accordion8"><h2>Voglio proporre un evento/iniziativa/CTF, chi posso contattare?</h2></label>
         <div>
-            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
+            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="contatti">contatti</a> del nostro sito potrebbe esserti utile.
         </div>
     </li>
     <li>
@@ -159,7 +159,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         <input id="accordion11" type="checkbox" />
         <label for="accordion11"><h2>Voglio proporre un evento/iniziativa/CTF, chi posso contattare?</h2></label>
         <div>
-            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
+            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="contatti">contatti</a> del nostro sito potrebbe esserti utile.
         </div>
     </li>
 

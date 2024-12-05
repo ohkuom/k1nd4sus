@@ -3,6 +3,7 @@
 layout: post
 title:  "Forging Silver Tickets"
 date:   2024-08-10 18:45:58 +0100
+categories: [Malware]
 author: kuom
 
 ---
