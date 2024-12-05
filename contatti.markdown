@@ -23,4 +23,4 @@ Per contattarci e seguire le nostre attività puoi usare i seguenti link:
 
 ## Iniziative
 - Il nostro profilo su [CTFtime](https://ctftime.org/team/150337)
-- Per informazioni su CyberChallenge.IT o CyberCup: guarda la pagina dedicata di questo sito. 
+- <a href="https://cyberchallenge.it/">CyberChallenge.IT</a> e <a href="https://cybercup.it/">CyberCup</a> 
