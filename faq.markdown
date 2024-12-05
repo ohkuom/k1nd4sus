@@ -136,9 +136,30 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
     </li>
     <li>
         <input id="accordion8" type="checkbox" />
-        <label for="accordion8"><h2>Come posso contattare l'Assemblea Direttiva o un suo membro?</h2></label>
+        <label for="accordion8"><h2>Voglio proporre un evento/iniziativa/CTF, chi posso contattare?</h2></label>
         <div>
-            La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
+            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
+        </div>
+    </li>
+    <li>
+        <input id="accordion9" type="checkbox" />
+        <label for="accordion9"><h2>Voglio collaborare in un progetto, come faccio?</h2></label>
+        <div>
+            Tieni sempre d'occhio il <a href="https://t.me/k1nd4susCTF">canale delle news</a>. Ogni volta che un nuovo progetto inizia sarà pubblicato un messaggio. A quel punto basterà seguire le istruzioni.
+        </div>
+    </li>
+    <li>
+        <input id="accordion10" type="checkbox" />
+        <label for="accordion10"><h2>Sto collaborando a un progetto ma non ho accesso a GitHub. Cosa posso fare?</h2></label>
+        <div>
+            Chiedi al responsabile del progetto in questione di darti l'accesso alla repository. L'accesso all'intera organizzazione è previsto solo per gli organizzatori e per membri particolarmente attivi sia nello sviluppo che nelle CTF.
+        </div>
+    </li>
+    <li>
+        <input id="accordion11" type="checkbox" />
+        <label for="accordion11"><h2>Voglio proporre un evento/iniziativa/CTF, chi posso contattare?</h2></label>
+        <div>
+            Scrivi a un membro del consiglio direttivo o all'email del gruppo. Saremo noi a ricontattarti con maggiori istruzioni.<br>La pagina <a href="https://k1nd4sus.it/contatti">contatti</a> del nostro sito potrebbe esserti utile.
         </div>
     </li>
 
