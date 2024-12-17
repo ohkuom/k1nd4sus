@@ -1,11 +1,11 @@
 kuom:
   name: '[kuom]'
-  bio: 'Offensive Security Specialist'
+  bio: 'Offensive security specialist, malware enthusiast and developer of this website.'
   avatar: ../../static/avatar.png
   socials:
     github: 'ohkuom'
     x: ''
-  website: 'https://kuom.com'
+  website: ''
 
 
 k!nd4sus:
@@ -13,6 +13,16 @@ k!nd4sus:
   bio: 'Aggiornamenti sul gruppo e sulle prossime CTF'
   avatar: ''
   socials:
-    github: ''
-    x: ''
+    github: 'k1nd4sus'
+    x: 'k1nd4SUS_ctf'
   website: ''
+
+
+perfumo:
+  name: 'Mattia Perfumo'
+  bio: 'Mi chiamo Mattia Perfumo, sono uno studente di Sicurezza Informatica alla statale di Milano e presidente del gruppo studentesco K!nd4SUS.'
+  avatar: ../../static/perf.jpg
+  socials:
+    github: 'mperf'
+    x: ''
+  website: 'https://mattiaperfumo.it'
