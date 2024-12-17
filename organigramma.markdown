@@ -4,7 +4,7 @@ title: Organigramma
 permalink: /organigramma
 ---
 ## Membri dell'Assemblea Direttiva:
-- Presidente: Mattia Perfumo
+- Presidente: [Mattia Perfumo](https://k1nd4sus.it/author/perfumo)
 - Tesoriere e Vicepresidente: Samuele Manclossi
 - Vicepresidente: Mirco Picca
 - Vicepresidente: Tiziano Radicchi
@@ -20,9 +20,9 @@ permalink: /organigramma
 
 ## Referenti del Gruppo Studentesco
 - Samuele Manclossi
-- Mattia Perfumo
+- [Mattia Perfumo](https://k1nd4sus.it/author/perfumo)
 - Tiziano Radicchi
 
 ## Amministratori
-- Delega al sito: Rocco Amico
-- Delega al sito: Cristian Salvi
+- [Rocco Amico](https://k1nd4sus.it/author/kuom): Delega al sito
+- [Cristian Salvi](https://k1nd4sus.it/author/salvi): Delega al sito
