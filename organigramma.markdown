@@ -24,5 +24,5 @@ permalink: /organigramma
 - Tiziano Radicchi
 
 ## Amministratori
-- [Rocco Amico](https://k1nd4sus.it/author/kuom): Delega al sito
-- [Cristian Salvi](https://k1nd4sus.it/author/salvi): Delega al sito
+- Delega al sito: [Rocco Amico](https://k1nd4sus.it/author/kuom)
+- Delega al sito: [Cristian Salvi](https://k1nd4sus.it/author/salvi)
