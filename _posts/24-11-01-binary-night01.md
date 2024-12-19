@@ -74,7 +74,7 @@ ROP is great for a few reasons, (among all, it's Turing complete) but it was cer
 
 It's slightly harder to put parameters in functions on x86-64, we just need a few additional gadgets. Generally, what we want when we need to fill a register `reg` is a gadget that does `pop reg`, if the gadget is at some fixed address, we can just put its address in the chain, followed by the value we need in the register.
 # Bibliography
-[This paper](http://cecs.wright.edu/~tkprasad/courses/cs781/alephOne.html) contains most informations about the buffer overflow part
-[ROP paper](https://hovav.net/ucsd/dist/rop.pdf)
-[About ROP being Turing complete and some techniques to use it](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf)
+[This paper](http://cecs.wright.edu/~tkprasad/courses/cs781/alephOne.html) contains most informations about the buffer overflow part <br>
+[ROP paper](https://hovav.net/ucsd/dist/rop.pdf) <br>
+[About ROP being Turing complete and some techniques to use it](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf) <br>
 [Calling conventions for x86](https://en.wikipedia.org/wiki/X86_calling_conventions)
