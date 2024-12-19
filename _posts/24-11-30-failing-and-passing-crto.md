@@ -10,6 +10,7 @@ Red Team Ops is a red team course from Zero-Point Security that teaches how to p
 The CRTO (Certified Red Team Operator) is the certification that comes with it. <br>
 It's really good.
 
+![[/assets/crto.png]]
 # Course material
 The Red Team Ops material is gold. It's one of the cheapest course out there (£365.00) and the content is worth every penny.<br>
 It's very specific to Active Directory and Cobalt Strike so I wouldn't reccomend it to anyone who wants a generic introduction into penetration testing.

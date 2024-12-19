@@ -22,9 +22,7 @@ La fase di **traduzione** di un linguaggio di alto livello ad un codice comprens
 - il **Compilatore**
 - l'**Interprete**
 
-<center>
-<img src="/assets/traduttore.png">
-</center>
+![[/assets/traduttore.png]]
 
 ### Il compilatore
 
@@ -50,9 +48,7 @@ La fase di traduzione, per il compilatore, si suddivide in **4 parti**:
 3. Assemblatore
 4. Loader/Linker
 
-<center>
-<img src="/assets/fasi-trad.png">
-</center>
+![[/assets/fasi-trad.png]]
    
 Prima di compilare il codice, viene eseguita una **fase di precompilazione**: vengono soddisfatte tutte le **direttive del preprocessore** esplicitate nel source code, come l'inclusione di file esterni, la processazione delle macro e la rimozione dei commenti (per queste operazioni viene adoperato un analizzatore lessicale). Il risultato di questa fase consiste in un **codice HLL puro**.<br>
 Avviene poi la compilazione: il sorgente viene tradotto in codice macchina specifico per una determinata architettura hardware (chiamato "**oggetto**", file con estensione .obj), controllando eventuali errori rispetto alla grammatica del linguaggio in questione. Successivamente, l'**assembler** genera il **codice macchina rilocabile**: ovvero, codice non dipendente da indirizzi statici di memoria. Viene poi assemblato con altre funzioni di libreria, o altri programmi, utilizzati dal programma tramite un **linker**, generando l'**eseguibile**.<br>
@@ -64,15 +60,12 @@ Ci sono due fasi fondamentali nella compilazione: **analisi** e **sintesi**.
 
 Durante la fase di **analisi** viene eseguita l'analisi **lessicale**, **sintattica** e **semantica**; nella fase di sintesi avviene la generazione del codice intermedio, l'ottimizzazione del codice e, infine, la generazione del codice macchina. Le varie fasi verranno analizzate nel dettaglio in seguito.
 
-<center>
-<img src="/assets/syn-ana.webp">
-</center>
+![[/assets/syn-ana.webp]]
 
 ### Rappresentazione alternativa
 I diversi stadi possono anche essere logicamente raggruppati in maniera più pragmatica, ovvero, **front-end** e **back-end**: questi suddividono le fasi **slegate** dall'architettura del calcolatore di destinazione (front-end) da quelle che eseguono operazioni specifiche della macchina target (back-end). Ciò permette il riutilizzo della medesima parte di front-end con back-end differenti (**cross compilazione**).
-<center>
-<img src="/assets/frontback.jpg">
-</center>
+
+![[/assets/frontback.jpg]]
 
 ## Struttura interna del compilatore
 
@@ -87,9 +80,7 @@ Il compilatore è composto da:
 
 Spiegherò nel dettaglio le fasi **front-end**, descrivendo in modo pratico come le ho realizzate nel mio progetto.
 
-<center>
-<img src="/assets/analisi-sintesi.png">
-</center>
+![[assets/analisi-sintesi.png]]
 
 ### Symbol Table e Error Handler
 
@@ -106,9 +97,7 @@ Essendo un **simulatore** di architettura, la parte back-end non è stata implem
 L'**analizzatore lessicale**: legge Il codice HLL puro carattere per carattere ricevendo in input i **lessemi**, ovvero i caratteri letti, e produce come output i **token**, ovvero gli elementi minimi di un linguaggio. <br>
 Inserisce le prime entry nella **Symbol Table** e inoltra i lessemi all'analizzatore della sintassi.
 
-<center>
-<img src="/assets/lex.png">
-</center>
+![[/assets/lex.png]]
 
 Si può dividere in due fasi:
 
@@ -199,12 +188,8 @@ In relazione a come viene creato il parse tree,ci sono differenti tecniche, che 
 
 Analisi sintattica discendente, viene anche definita "**predittiva**", dato che la costruzione del parse tree inizia dalla radice e procede verso le foglie.
 
-<center>
-<img src="/assets/grammar.png" heigth="50%" width="50%">
-</center>
-<center>
-<img src="/assets/topdown.png" heigth="70%" width="70%">
-</center>
+![[/assets/grammar.png]]
+![[/assets/topdown.png]]
 
 <br>
 Un problema che può accedere in questi tipi di analisi sintattica è di dover tornare su una decisione presa perchè non porta al risultato, questo fenomeno è chiamato **backtracking**.
