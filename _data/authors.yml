@@ -26,3 +26,13 @@ perfumo:
     github: 'mperf'
     x: ''
   website: 'https://mattiaperfumo.it'
+
+
+salvi:
+  name: 'Cristian Salvi'
+  bio: 'just a pwner.'
+  avatar: ../../static/avatar.png
+  socials:
+    github: '5alv1'
+    x: ''
+  website: 'https://5alv1.github.io'
